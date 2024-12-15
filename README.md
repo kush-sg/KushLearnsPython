@@ -27,4 +27,4 @@ Each folder represents a **topic**, and inside, you'll find:
 ## 🤔 How You Can Use This Repo  
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/kush-sg/codespaces-blank.git
+   git clone https://github.com/kush-sg/KushLearnsPython.git
